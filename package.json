@@ -1,0 +1,9 @@
+{
+  "name": "sipintar-vercel",
+  "version": "0.9.42",
+  "private": true,
+  "description": "SIPINTAR v0.9.42-cahaya-prima — aplikasi sarpras Sekolah Cahaya Prima: shell statis + fungsi serverless sync antar perangkat (KV Upstash/Vercel KV). Tanpa dependensi npm.",
+  "engines": {
+    "node": "20.x"
+  }
+}
